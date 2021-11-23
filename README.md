@@ -21,4 +21,4 @@
 
 ### ⚙️ _Result_  
 프로젝트 완성 PPT<br>
-[DuckBang(최종).pdf](https://github.com/Hannah1004/DuckBangProject/files/7586689/DuckBang.pdf)
+[DuckBang(최종).pdf](#https://github.com/Hannah1004/DuckBangProject/files/7586689/DuckBang.pdf)
