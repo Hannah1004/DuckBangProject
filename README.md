@@ -24,4 +24,5 @@ https://github.com/kes0421/DuckBang
 
 ### ⚙️ _Result_  
 프로젝트 완성 PPT<br>
-https://github.com/Hannah1004/DuckBangProject/blob/main/DuckBang(%EC%B5%9C%EC%A2%85).pdf
+https://github.com/Hannah1004/DuckBangProject/files/7665433/DuckBang.pdf
+
